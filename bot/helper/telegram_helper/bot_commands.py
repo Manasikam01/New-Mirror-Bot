@@ -20,7 +20,7 @@ class _BotCommands:
         self.WatchCommand = 'watch5'
         self.TarWatchCommand = 'tarwatch5'
         self.DeleteCommand = 'd'
-        self.UsageCommand = 'usage5
+        self.UsageCommand = 'usage5'
         self.RepoCommand = 'repo0025'
 
 BotCommands = _BotCommands()
